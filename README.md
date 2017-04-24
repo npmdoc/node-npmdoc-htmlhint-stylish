@@ -1,4 +1,7 @@
-# api documentation for  [htmlhint-stylish (v1.0.3)](https://github.com/doshprompt/htmlhint-stylish#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-htmlhint-stylish.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-htmlhint-stylish) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-htmlhint-stylish.svg)](https://travis-ci.org/npmdoc/node-npmdoc-htmlhint-stylish)
+# npmdoc-htmlhint-stylish
+
+#### api documentation for  [htmlhint-stylish (v1.0.3)](https://github.com/doshprompt/htmlhint-stylish#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-htmlhint-stylish.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-htmlhint-stylish) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-htmlhint-stylish.svg)](https://travis-ci.org/npmdoc/node-npmdoc-htmlhint-stylish)
+
 #### A Stylish reporter for HTMLHint
 
 [![NPM](https://nodei.co/npm/htmlhint-stylish.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/htmlhint-stylish)
@@ -79,7 +82,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.0.3"
+    "version": "1.0.3",
+    "bin": {}
 }
 ```
 
